@@ -1,0 +1,75 @@
+body{
+    display:flexbox;
+    background-image: url("https://cms.qz.com/wp-content/uploads/2019/12/The-power-of-dance-e1575906582595.jpg?quality=75&strip=all&w=1600&h=900&crop=1");
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.con
+{
+    position: relative;
+    height:600px;
+    left:0px;
+
+}
+.h1
+ {
+    height:100px;
+    width:100%; 
+    background-image: url("");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    border-bottom:2px solid #fafdfc;
+    padding-top: 60px;
+    font-size: 100px;
+    color:#fafdfc;
+
+}
+.btn{
+    position:absolute;
+    top:30px;
+    right:10px;
+
+}
+button{
+    color:red;
+    height:35px;
+    width:140px;
+
+    background-image: linear-gradient(black,white);
+    border-radius: 10px;
+
+
+}
+#data
+{
+    width:99%;
+    height:450px;
+    text-align: right;
+    justify-content: center;
+    display: flex;   
+
+}
+.table
+{
+    width:800px;
+
+}
+table{
+    color:rgb(243, 118, 16);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 700;
+
+}
+table tr :hover{
+    background-color:#fafdfc;
+
+}
+img{
+    clip-path: squarespace-cdn();
+}
+.wel{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(81, 68, 87);
+    padding-top: 120px;
+}
